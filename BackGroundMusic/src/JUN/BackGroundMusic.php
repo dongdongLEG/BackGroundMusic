@@ -227,7 +227,7 @@ class BackGroundMusic extends PluginBase implements Listener{
 
     public function onCommand(CommandSender $sender, Command $command, string $label, array $args) : bool{
         if($command->getName() === "bgm 정보"){
-            $sender->sendMessage(" 플러그인 제작 : JUN-KR\n 깃허브 : https://github.com/JUN-KR");
+            $sender->sendMessage("Copyright 2021. 동동 all rights reserved. 디스코드 동동#9655 문의.");
             return true;
         }
         if($command->getName() === 'bgm'){
