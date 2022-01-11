@@ -3,7 +3,7 @@
 /*
 Copyright 2021. 동동 all rights reserved.
 
-문의: 디스코드 동동#9655 또는 dongdong1234451@gmail.com
+문의: 디스코드 동동#9655 또는 dongdong@minecraft.or.kr
 
 본 플러그인은 "GNU General Public License v3.0"에 의해 보호받습니다.
  */
